@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buka/static/css/main.e6c13ad2.css",
+    "main.js": "/buka/static/js/main.695cdc39.js",
+    "static/js/787.d25d425f.chunk.js": "/buka/static/js/787.d25d425f.chunk.js",
+    "index.html": "/buka/index.html",
+    "main.e6c13ad2.css.map": "/buka/static/css/main.e6c13ad2.css.map",
+    "main.695cdc39.js.map": "/buka/static/js/main.695cdc39.js.map",
+    "787.d25d425f.chunk.js.map": "/buka/static/js/787.d25d425f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.695cdc39.js"
+  ]
+}
